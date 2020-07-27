@@ -21,7 +21,7 @@ const violation = {
     sluggish: 'sluggish',
     frequentMistakes: 'frequentMistakes',
     absenteeism: 'absenteeism',
-    default: 0,
+    default: 'default',
 };
 
 const violationTax = {
